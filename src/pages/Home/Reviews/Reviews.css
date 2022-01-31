@@ -1,0 +1,8 @@
+.reviews{
+    color: red;
+    font-weight: bolder;
+display: flex;
+/* justify-content: center; */
+    border-bottom: 3px solid black;
+    width: 280px;
+}

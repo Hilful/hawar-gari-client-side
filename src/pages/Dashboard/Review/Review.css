@@ -1,0 +1,29 @@
+.field{
+    width: 50%;
+    border: 1px solid gray;
+    margin: 10px;
+    border-radius: 5px;
+}
+.reviews1{
+    width: 40%;
+    border-bottom: 3px solid white;
+}
+.review_bg{
+    background-image: url('https://cdn.shopify.com/s/files/1/0525/5456/3756/files/cd.jpg?v=1610330155');
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.801) !important;
+}
+.center{
+    padding-Top:50px;
+   padding-left: 50px;
+}
+
+.review-btn{
+    margin-left: 15px;
+    width: 150px;
+}

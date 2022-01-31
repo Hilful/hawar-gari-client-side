@@ -1,0 +1,10 @@
+.blog_bg{
+    background-image: url('https://cdn.shopify.com/s/files/1/0602/8807/3979/files/about_heading.png?v=1633687353');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.banner2{
+    background-image: url('https://i.ibb.co/RN3M3Xs/home-banner-middle.jpg');
+    background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 400px;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.801) !important;
+}
